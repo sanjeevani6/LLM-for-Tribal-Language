@@ -1,0 +1,23 @@
+{
+  "experiment": "Bhili baseline \u2014 original vocabulary + LoRA",
+  "model_id": "ai4bharat/indictrans2-indic-indic-1B",
+  "language": "bhili",
+  "source_column": "Hindi",
+  "target_column": "Bhili",
+  "source_language_tag": "hin_Deva",
+  "target_language_tag": "mar_Deva",
+  "best_epoch": 7,
+  "best_validation_loss": 4.501141948084677,
+  "completed_epoch": 7,
+  "optimizer_steps": 7798,
+  "seed": 42,
+  "batch_size": 4,
+  "gradient_accumulation_steps": 4,
+  "learning_rate": 0.0001,
+  "weight_decay": 0.01,
+  "max_source_length": 256,
+  "max_target_length": 256,
+  "lora_r": 16,
+  "lora_alpha": 32,
+  "lora_dropout": 0.05
+}

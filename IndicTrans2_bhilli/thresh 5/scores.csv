@@ -1,0 +1,3 @@
+system,split,n,BLEU,chrF,TER,word_len_ratio,empty
+Bhili baseline LoRA,test,990,12.17,43.34,69.98,0.976,0
+"Bhili extension (2729 tokens, mean init, min_freq=5)",test,990,13.4,44.78,69.0,0.982,0

@@ -1,0 +1,6 @@
+subset,n,delta_BLEU,delta_chrF
+all test examples,990,0.77,0.931
+extension output used,675,0.682,0.975
+extension output not used,315,1.088,0.784
+reference contains candidate,637,0.704,0.894
+reference contains no candidate,353,0.95,1.031

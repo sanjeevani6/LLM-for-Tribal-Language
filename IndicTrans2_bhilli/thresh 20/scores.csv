@@ -1,0 +1,2 @@
+system,split,n,BLEU,chrF,TER,word_len_ratio,empty
+"Bhili extension (510 tokens, mean init, min_freq=20)",test,990,13.09,44.37,69.96,0.986,0

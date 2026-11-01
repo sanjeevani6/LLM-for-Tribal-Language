@@ -1,0 +1,10 @@
+{
+  "sample_sentences": 2000,
+  "original_mean_target_pieces": 31.233,
+  "extended_mean_target_pieces": 29.17,
+  "sample_piece_reduction_percent": 6.605193225114462,
+  "minimum_frequency": 20,
+  "new_tokens": 510,
+  "candidate_training_occurrences": 31508,
+  "candidate_words_with_piece_missing_from_model_vocab": 0
+}
