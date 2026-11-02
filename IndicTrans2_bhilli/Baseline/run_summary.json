@@ -1,0 +1,10 @@
+{
+  "run": "bhili_baseline_s42",
+  "SEED": 42,
+  "best_val_loss": 3.923135663232496,
+  "completed_epochs": 10,
+  "test_BLEU": 12.849406789632589,
+  "test_chrF": 44.30513118634263,
+  "BLEU_signature": "nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.6.0",
+  "chrF_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0"
+}

@@ -1,0 +1,2 @@
+system,split,n,BLEU,chrF,TER,word_len_ratio,empty
+"Bhili baseline LoRA, retrained here (seed 42)",test,990,12.85,44.31,70.33,0.987,0
